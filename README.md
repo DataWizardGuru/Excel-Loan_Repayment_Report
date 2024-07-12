@@ -14,12 +14,12 @@ Projects Related To Excel
 
 - **RECOMMENDATION**
  
-  **1.** As per your instruction, if your monthly budget is 25,000 then taking the loan from y axis bank best choice for you.
+  **1.** Based on your instructions, if your monthly budget is ₹25,000, taking a loan from Y Axis Bank would be the best choice for you.
   
-   **2.** Left Y bank is not suit for your budget.
+   **2.** Left Y Bank is not suitable for your budget.
   
-   **3.** Cbi bank total intrest amount 99351.76 need to pay additionly compared to y bank.
+   **3.** Compared to Y Axis Bank, CBI Bank requires an additional payment of ₹99,351.76 in total interest.
   
-   **4.** Y axis bank perfect choice for you.
+   **4.** Y Axis Bank is the perfect choice for you.
 
 
